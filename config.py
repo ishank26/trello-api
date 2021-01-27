@@ -1,4 +1,4 @@
-API_KEY = '850ae81b8dd1f937d38bc88120cefda6'
-USER_TOKEN = 'd9ab90802c4ef48b8b8364da9b7bae1b63aa6674d07e06a8d1dc8788d32d3b86'
+API_KEY = 'your key'
+USER_TOKEN = 'your token'
 
 
